@@ -3,6 +3,5 @@ class helloworld {
      System.out.println("Hello World");
      System.out.println("Kasa kay tumi bhau!");
      System.out.println("Me chaan");
-       System.out.println("Me chaan lay bhari");
  }
 }
